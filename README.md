@@ -5,7 +5,7 @@
 </p>
 
 ## Business Problem
-Organizations often focus heavily on the Voice of the Customer (VoC) while overlooking the **Voice of the Employee (VoE)**—the internal force that directly shapes customer experience, productivity, and long-term business performance.  
+Organizations often focus heavily on the Voice of the Customer (VoC) while overlooking the **Voice of the Employee (VoE)**, the internal force that directly shapes customer experience, productivity, and long-term business performance.  
 Without data-driven insights into workforce growth, retention, satisfaction, and compensation equity, leadership decisions around people strategy risk being reactive rather than strategic.
 
 ## Objective
@@ -59,7 +59,6 @@ Without data-driven insights into workforce growth, retention, satisfaction, and
 
 ### Visualization & Storytelling
 - Executive-level Excel dashboard designed for HR and leadership stakeholders
-- Interactive PivotCharts and slicers for dynamic exploration
 - Clear storytelling flow focused on workforce health and risks
 
 ## Key Insights
