@@ -1,6 +1,8 @@
 # HR Analytics – Listening to the Voice of Employees (VoE)
 
-![CVD Dashboard Overview](VOE.jpg)
+<p align="center">
+  <img src="images/VOE.jpg" width="90%">
+</p>
 
 ## Business Problem
 Organizations often focus heavily on the Voice of the Customer (VoC) while overlooking the **Voice of the Employee (VoE)**—the internal force that directly shapes customer experience, productivity, and long-term business performance.  
