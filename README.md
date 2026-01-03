@@ -1,7 +1,7 @@
 # HR Analytics – Listening to the Voice of Employees (VoE)
 
 <p align="center">
-  <img src="images/VOE.jpg" width="90%">
+  <img src="VOE.jpg" width="90%">
 </p>
 
 ## Business Problem
